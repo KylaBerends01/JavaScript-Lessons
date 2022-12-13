@@ -1,6 +1,6 @@
-const businessName = "Edit Life Media";
-console.log(businessName);
+// const businessName = "Edit Life Media";
+// console.log(businessName);
 
-var item = "box";
-console.log(item);
+// var item = "box";
+// console.log(item);
 
